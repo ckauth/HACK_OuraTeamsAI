@@ -1,7 +1,7 @@
 # Oura Bot
 Oura is an AI assistant named after a [smart ring](https://ouraring.com/) that helps track activity, readiness, and sleep. Its purpose is to act as a personal coach and care about the user's wellbeing. It consults the user's activity 🏃‍♀️, readiness ⚡, and sleep 😴 scores, along with other contextual data. Oura's replies are concise, using data from the ring, explaining interpretations in simple terms, and occasionally incorporating emojis to add a touch of lightheartedness ❤️.
 
-[![TeamsOura](https://github.com/ckauth/HACK_OuraTeamsAI/blob/main/illustrations/Teams_Oura_thumbnail.png)](https://github.com/ckauth/HACK_OuraTeamsAI/blob/main/illustrations/Teams_Oura_720p.mp4)
+![TeamsOura](https://github.com/ckauth/HACK_OuraTeamsAI/blob/main/illustrations/Teams_Oura_720p.gif)
 
 # How to use this Oura app
 
